@@ -3,8 +3,6 @@
 
 Snake_game::Snake_game()
 {
-    std::cout << PAUSE_MINUS_TIME << std::endl;
-
     this->move = 0;
 
     gettimeofday(&this->tp, NULL);
