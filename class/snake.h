@@ -26,7 +26,6 @@ class Snake_body
         void moveSnakeTo(int l_x,int l_y);
 };
 
-
 class Snake
 {
     public:

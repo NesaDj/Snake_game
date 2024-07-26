@@ -8,4 +8,11 @@ Install OpenGL with next command:
 
 Compaile it with next command:
 
-	g++ main.cpp class/snake.cpp class/game.cpp -lglfw -lGL
+	g++ main.cpp class/snake.cpp class/game.cpp -lglfw -lGL -o Snake_game.out
+
+Start game with:
+
+	./Snake_game.out
+
+Move snake with arrow key,pause game with space bar.
+Exit game on escape button.

@@ -78,7 +78,6 @@ void Snake_game::start_game()
     glfwTerminate();
 };
 
-
 bool Snake_game::try_move()
 {
     gettimeofday(&this->tp, NULL);

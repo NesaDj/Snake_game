@@ -8,7 +8,6 @@ Snake_body::~Snake_body()
     }
 };
 
-
 Snake::Snake()
 {
     srand((unsigned int)time(NULL));

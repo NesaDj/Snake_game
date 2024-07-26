@@ -9,7 +9,6 @@
 #include <chrono>
 #include <thread>
 
-
 #include "snake.h"
 
 #define MOVE_TIME 1000
